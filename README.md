@@ -27,6 +27,3 @@
 />
 <img src="https://github-readme-stats.zohan.tech/api?username=ghidhfh-2200&show_icons=true" />
 </picture>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghidhfh-2200&" alt="ghidhfh-2200" /></p>
